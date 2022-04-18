@@ -93,7 +93,7 @@ Echo.
 Echo.
 Echo. PLUGINS REQUIRED FOR THIS PROJECT:
 Echo. Wc        by Paul Rubin and David MacKenzie master
-Echo. gecho     by Groophy forLife
+Echo. gecho     by GroophyLifefor
 Echo. Progress  by Kvc
 Echo. AddLine   by Kvc
 Echo. 
